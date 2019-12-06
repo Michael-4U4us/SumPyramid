@@ -1,0 +1,10 @@
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\obj\Debug\SumPyramid.csproj.CoreCompileInputs.cache
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\bin\Debug\SumPyramid.exe.config
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\bin\Debug\SumPyramid.exe
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\bin\Debug\SumPyramid.pdb
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\obj\Debug\SumPyramid.exe
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\obj\Debug\SumPyramid.pdb
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\obj\Debug\SumPyramid.Properties.Resources.resources
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\obj\Debug\SumPyramid.csproj.GenerateResource.cache
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\bin\Debug\Mocks\Question.txt
+C:\Projekty\SumPyramid\SumPyramid\SumPyramid\bin\Debug\Mocks\SimpleInput.txt
